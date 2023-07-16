@@ -1,4 +1,4 @@
-# **Abnormal Transaction Detection(비정상 거래 탐지)**
+# **비정상 거래 탐지(LightGBM, AUC 0.995)**
 
 ## Project Outline
 
